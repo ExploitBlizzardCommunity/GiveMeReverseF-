@@ -1,6 +1,8 @@
 # GiveMeReverseFsharp
 > Reverse Shell In F#
 
+**Author:- @0xMrNiko**
+
 A Simple Reverse Shell In Fsharp Can Be Used To get RevShell In Windows Box.
 PoC Of This Video ON YouTube(Code Example).
 
